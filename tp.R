@@ -1,0 +1,13 @@
+x1 <- c(TRUE,FALSE)
+x2 <- c(1,2,3)
+class(x2)
+x3 <- c(1L,2L,3L)
+class(x3)
+x4 <- c(12,23,45,2,222222222222)
+x5 <- c("HELLO","HI")
+x6 <- c(TRUE,FALSE,12L)
+x7 <- c("hello",12L,1.22,TRUE)
+#converts to character type vector if it has character 
+x8 <- c(1:12)
+class(x7)
+typeof (x6)
