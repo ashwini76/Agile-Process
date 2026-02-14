@@ -8,3 +8,5 @@ One more day extension can be provided.
 Please check the added experiment.
 
 deadline is very strict.
+
+Also carry valid ID card while submitting the assignment.

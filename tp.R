@@ -11,3 +11,5 @@ x7 <- c("hello",12L,1.22,TRUE)
 x8 <- c(1:12)
 class(x7)
 typeof (x6)
+# Commenting the below line as it is not needed
+# x9 <- c(1:12)
