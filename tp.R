@@ -13,3 +13,5 @@ class(x7)
 typeof (x6)
 # Commenting the below line as it is not needed
 # x9 <- c(1:12)
+# Commenting the below line as it is not needed
+# x10 <- c(1:12)
